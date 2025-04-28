@@ -89,3 +89,20 @@
 [06:44:35] [Server thread/INFO]: .MrDark2667[/127.0.0.1:0] logged in with entity id 15 at ([world]-17.5, 66.0, -39.5)
 [06:45:01] [Async Chat Thread - #1/INFO]: [Not Secure] <.MrDark2667> gola
 [06:47:31] [Server thread/INFO]: Made .MrDark2667 a server operator
+[06:54:18] [Async Chat Thread - #2/INFO]: [Not Secure] <.MrDark2667> -hola
+[06:54:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+hola<--[HERE]
+[06:54:46] [Server thread/INFO]: [Not Secure] [Server] hola
+[06:55:39] [Server thread/INFO]: [Not Secure] [Server] el proximo que salte es gey
+[06:56:21] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] MrDark2667 has disconnected from the Java server because of Bedrock client disconnected
+[06:56:21] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .MrDark2667 disconnected
+[06:56:21] [Server thread/INFO]: .MrDark2667 lost connection: Disconnected
+[06:56:21] [Server thread/INFO]: .MrDark2667 left the game
+[07:01:33] [User Authenticator #0/INFO]: UUID of player Maiiiikkk is 085296a9-b757-3be1-ab6f-be45fb7df9b4
+[07:01:35] [Server thread/INFO]: Maiiiikkk joined the game
+[07:01:35] [Server thread/INFO]: Maiiiikkk[/127.204.31.178:55325] logged in with entity id 2038 at ([world]-8.5, 66.0, -43.5)
+[07:02:00] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username MrDark2667
+[07:02:00] [localSession-7-3/INFO]: [Geyser-Spigot] MrDark2667 (logged in as: MrDark2667) has connected to the Java server
+[07:02:01] [Server thread/INFO]: [floodgate] Floodgate player logged in as .MrDark2667 joined (UUID: 00000000-0000-0000-0009-01fc69d17113)
+[07:02:01] [Server thread/INFO]: .MrDark2667 joined the game
+[07:02:01] [Server thread/INFO]: .MrDark2667[/127.0.0.1:0] logged in with entity id 2122 at ([world]71.00929, 72.0, 46.60299)
